@@ -3257,11 +3257,11 @@ export default {
 	this.region = value
 	console.log(this.region)
 	if (this.region === 1 ) {
-		this.nombreRegion = "guania"
+		this.nombreRegion = "Guainia"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Guainia!',
+			text: 'Este departamento de la región amazónica está situado al sur oriente del país en la frontera con Venezuela y Brasil. Por mucho tiempo fue un territorio olvidado debido a su poca población y desarrollo. Sin embargo, hoy en día, nos hemos dado cuenta de la gran riqueza que representa para Colombia, en cuanto a la belleza y abundancia de recursos naturales y culturales. El Guainía hace parte de “la mayor reserva fluvial y ecológica del mundo”.',
+			imageUrl: 'https://revistadiners.com.co/wp-content/uploads/2019/04/vichadaport_800x669-1280x720.jpg',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3273,9 +3273,9 @@ export default {
 	if (this.region == 2) {
 		this.nombreRegion = "arauca"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Arauca!',
+			text: 'En esta bella ciudad se encuentran como principales atractivos turísticos el Museo de la Cultura, el Parque de los Poetas, el Velódromo, el Coliseo Municipal, el Barrio Los Libertadores y la Universidad Nacional.',
+			imageUrl: 'https://encolombia.com/wp-content/uploads/2012/12/arauca.jpg',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3284,9 +3284,9 @@ export default {
 	if (this.region == 3) {
 		this.nombreRegion = "amazonas"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Amazonas!',
+			text: 'El Amazonas colombiano sin lugar a dudas es un destino imperdible para los viajeros que buscan tener un contacto cercano con la riqueza natural y con algunas de las culturas mejor conservadas del mundo.',
+			imageUrl: 'https://cnnespanol.cnn.com/wp-content/uploads/2020/03/amazonas-en-peligro-punto-de-no-retorno1-.jpg?quality=100&strip=info',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3295,9 +3295,9 @@ export default {
 	if (this.region == 4) {
 		this.nombreRegion = "nariño"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Nariño!',
+			text: 'Nariño presenta una geografía diversa y clima variado según las altitudes: caluroso en la planicie del Pacífico y frío en la parte montañosa, donde vive la mayor parte de la población, situación que se repite en sentido norte-sur. El departamento es esencialmente agrícola y ganadero.',
+			imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Santuario_Nacional_de_Las_Lajas_04.jpg/1200px-Santuario_Nacional_de_Las_Lajas_04.jpg',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3306,9 +3306,9 @@ export default {
 	if (this.region == 5) {
 		this.nombreRegion = "vaupes"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Vaupes!',
+			text: 'Los ríos principales del Vaupés son el Apaporis que limita con el Amazonas, el río Pirá Parana, el río Vaupés que nace en el Guaviare, el río Querarý que desemboca en Vaupés, el río Papurí que separa Brasil de Colombia y el río Cananarí donde se llega a una de las maravillas de este territorio conocido como Jirijirimo o Casa de la anaconda..',
+			imageUrl: 'https://rtvc-assets-radionacional-v2.s3.amazonaws.com/s3fs-public/senalradio/articulo-noticia/galeriaimagen/img-20180918-wa0031.jpg',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3317,9 +3317,9 @@ export default {
 	if (this.region == 6) {
 		this.nombreRegion = "vichada"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Vaupes!',
+			text: 'Vaupés ocupa un sector de transición entre las llanuras secas de la Orinoquia al norte, y la selva húmeda amazónica al sur. Sus temperaturas oscilan entre 25 y 30 °C. Vaupés comparte con el departamento del Guaviare la Reserva nacional natural Nukak..',
+			imageUrl: 'https://revistadiners.com.co/wp-content/uploads/2019/04/maipures_800x533.jpg',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3328,9 +3328,9 @@ export default {
 	if (this.region == 7) {
 		this.nombreRegion = "boyaca"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Boyacá!',
+			text: 'El Departamento de Boyacá está situado en el centro del país, en la cordillera oriental de los Andes. La economía de Boyacá se basa principalmente en la producción agrícola y ganadera, los principales cultivos son papa, maíz, cebolla, trigo, cebada, caña panelera, yuca..',
+			imageUrl: 'https://acn.ucentral.co/images/12www.almar.jpg',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3339,9 +3339,9 @@ export default {
 	if (this.region == 8) {
 		this.nombreRegion = "norte-santander"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Norte santander!',
+			text: 'En el Centro del departamento Norte de Santander está el Parque Natural Regional Sisavita, ubicado específicamente en Cucutilla. También es de la región centro Salazar de Las Palmas, conocida como “La Cuna del Café en Colombia». Al igual están Lourdes, Santiago y Gramalote, pueblo sobreviviente a una falla natural y reconstruido desde cero..',
+			imageUrl: 'https://turismonortedesantander.com/wp-content/uploads/Cacota_Plaza_norte-de-santander_2.jpg',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3350,9 +3350,9 @@ export default {
 	if (this.region == 9) {
 		this.nombreRegion = "choco"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Chocó!',
+			text: 'En esta región, considerada como la zona del planeta con el índice de lluvias más elevado, podrás encontrar diferentes lugares que te dejarán maravillados por su belleza y color. También allí es posible encontrar una parte de selva única en el mundo con parques tan importantes como el Parque Nacional de los Katíos, el Parque de la Ensenada de Utría y el Parque Nacional Tamamá..',
+			imageUrl: 'https://www.colombiamegusta.com/wp-content/uploads/playa-choc.jpg',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3361,20 +3361,20 @@ export default {
 	if (this.region == 10) {
 		this.nombreRegion = "san-andres"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'San Andrés!',
+			text: 'San Andrés es una auténtica isla del Caribe y la más grande de las que forman parte del Archipiélago de San Andrés, Providencia y Santa Catalina, frente a las costas de Centroamérica. Se destaca por su mar de siete colores desde el azul intenso a un verde aguamarina y fue declarada Reserva Mundial de la Biosfera por la UNESCO para proteger las formaciones coralinas, manglares y áreas de bosque seco tropical. En este post te compartimos algunos tips para viajar San Andrés: Cómo llegar, qué hacer, dónde dormir, cuáles son las mejores playas.',
+			imageUrl: 'https://volemos.nyc3.digitaloceanspaces.com/blog/wp-content/uploads/2018/12/Acuario-San-Andres.jpg',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
 			})
 	}
 	if (this.region == 11) {
-		this.nombreRegion = "cordoba"
+		this.nombreRegion = "córdoba"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Córdoba!',
+			text: 'El mejor resumen de estos monumentos que se abrazan uno dentro de otro, la mezquita musulmana y la catedral cristiana, es subir los 203 escalones del campanario, la torre barroca más alta de Córdoba, construida en 1593 alrededor del alminar árabe. Torre y alminar, dialogando siempre y ofreciendo una vista de ambos templos, y alrededor, una panorámica inolvidable de la ciudad..',
+			imageUrl: 'https://viajes.nationalgeographic.com.es/medio/2019/01/30/mezquita-de-cordoba_57cd3622_1200x630.jpg',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3383,9 +3383,9 @@ export default {
 	if (this.region == 12) {
 		this.nombreRegion = "sucre"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Sucre!',
+			text: ' Sucre es eso: una encantadora ciudad colonial. Y blanca. Toda la ciudad es un maravilloso tablero de ajedrez de marfil. Salvo los portones. Y las ventanas. Todos de madera reluciente, madera de doscientos años lustrada apenas ayer. Como si estuviéramos en otro siglo.',
+			imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRfVqbe_TF3pAneblUIGzDGQpVy89ZqqEEktQ&usqp=CAU',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3394,9 +3394,9 @@ export default {
 	if (this.region == 13) {
 		this.nombreRegion = "caqueta"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: '“Caquetá!',
+			text: '“Caquetá más de lo que te imaginas” es un lema que significa Caquetá departamento de riquezas desconocidas y de biodiversidad prodigiosa.  Caquetá tierra de belleza verde, adornada de su diversidad colorida.  El turismo en el Caquetá se está expandiendo, y he aquí los destinos imperdibles del Caquetá..',
+			imageUrl: 'https://i.pinimg.com/originals/ad/0e/9e/ad0e9e171710ab7f46051d8137c2fb29.jpg',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3405,9 +3405,9 @@ export default {
 	if (this.region == 14) {
 		this.nombreRegion = "guaviare"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Guaviare!',
+			text: 'Guaviare es uno de los departamentos más jóvenes de Colombia, fue creado el 4 de julio de 1991, y es un lugar lleno de posibilidades. Para llegar allí se puede tomar un vuelo desde Bogotá que dura 45 minutos, o por carretera, el recorrido puede durar alrededor de ocho horas por vías en buen estado..',
+			imageUrl: 'https://www.passporttravelmagazine.com/wp-content/uploads/2017/04/1-12.jpg',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3416,9 +3416,9 @@ export default {
 	if (this.region == 15) {
 		this.nombreRegion = "casanare"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Casanare!',
+			text: 'En Casanare puedes pasear en bote y practicar diversos deportes acuáticos por los ríos, caños o algunas lagunas que dan la posibilidad de practicar estos deportes, también puedes visitar los balnearios, estar en las faenas llaneras y demás. Hacer tours montando a caballo, conociendo cada rincón de Casanare. Avistamiento de aves en algunos sectores del departamento, canoppy y parapente para que sientas miles de sensaciones practicando deportes extremos. Para que te lleves más que un simple recuero, puedes aprender a bailar joropo junto a los expertos de Casanare, no te lo pierdas, es una experiencia única en la zona llanera..',
+			imageUrl: 'https://i2.wp.com/www.violetastereo.com/wp/wp-content/uploads/2019/07/cropped-meca.jpg?fit=640%2C360&ssl=1',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3427,9 +3427,9 @@ export default {
 	if (this.region == 16) {
 		this.nombreRegion = "santander"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Santander!',
+			text: 'Si quieres hacer un viaje para estar tranquilo y en silencio, ese lugar es Barichara, en el centro del Departamento de Santander, considerado el pueblo más lindo de Colombia, que se destaca por sus blancas casas coloniales, su iglesia, calles empedradas y sin ningún poste de luz que se interponga en una buena foto..',
+			imageUrl: 'https://www.aviatur.com/source/contenidos/barichara-santander.jpg',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3438,9 +3438,9 @@ export default {
 	if (this.region == 17) {
 		this.nombreRegion = "cesar"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Cesar!',
+			text: 'Cesar es uno de los departamentos pertenecientes a la región pacífica y por supuesto a Colombia es la capital del vallenato y tiene una amplia gama de diversidad.',
+			imageUrl: 'https://1.bp.blogspot.com/-MjnUWaiFYlY/VCHRo0AL6vI/AAAAAAAACLE/VG8MDUF8Irk/s1600/paisajes-natutrales-ecologiaverde-6.jpg',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3449,9 +3449,20 @@ export default {
 	if (this.region == 18) {
 		this.nombreRegion = "magdalena"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Magdalena!',
+			text: 'Santa Marta es puro sabor. Es una ciudad donde la diversidad está totalmente presente en su paisaje, en su gente y en cada aspecto cultural que la compone; es un destino que acoge a todos sus visitantes y los hace sentir como en casa..',
+			imageUrl: 'https://m.eltiempo.com/uploads/2019/06/21/5d0d138fba6c7.jpeg',
+			imageWidth: 400,
+			imageHeight: 200,
+			imageAlt: 'Custom image',
+			})
+	}
+	if (this.region == 19) {
+		this.nombreRegion = "bolivar"
+			Swal.fire({
+			title: 'Bolivar!',
+			text: 'Cartagena es una ciudad que está ubicada a orillas del Mar Caribe, en la zona noroccidental del continente suramericano. En Colombia, se encuentra al norte del país, y es la capital de la región de Bolívar. ‘La Ciudad Heroica’ contempla a su alrededor varios archipiélagos e islas que son paraísos para un verdadero descanso. Aparte de limitar con San Andrés y Providencia, entre las islas más reconocidas se encuentran las Islas del Rosario, la Isla de Tierra Bomba e Isla Múcura, entre otras. .',
+			imageUrl: 'https://www.laregion.es/media/laregion/images/2017/08/03/2017080312522634535.jpg',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3460,9 +3471,9 @@ export default {
 	if (this.region == 20) {
 		this.nombreRegion = "cauca"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Cauca!',
+			text: 'Cauca es uno de los 32 departamentos que existen en Colombia, su capital es la ciudad de Popayán, y tiene grandes atractivos naturales y arqueológicos, que cuentan siglos de historias de las diferentes comunidades prehispánicas que habitaron en esta parte de Colombia. Y además, como todas las regiones de Colombia, tiene una gran riqueza cultural y gastronómica que enamora a todos sus visitantes..',
+			imageUrl: 'data:image/jpeg;base64,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',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3471,9 +3482,9 @@ export default {
 	if (this.region == 21) {
 		this.nombreRegion = "meta"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Meta!',
+			text: 'El Meta es uno de los departamentos colombianos de mayor riqueza, los descubrimientos de petróleo le generan importantes regalias; además de ser un departamento agrícola y ganadero, en los últimos años se ha venido destacando por su crecimiento en el sector turístico..',
+			imageUrl: 'https://encolombia.com/wp-content/uploads/2012/12/cano_cristales_meta_colombia.jpg',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3482,9 +3493,9 @@ export default {
 	if (this.region == 22) {
 		this.nombreRegion = "cundinamarca"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Bogota!',
+			text: 'Bogota oficialmente bogota distrito capital, es la capital de colombia y del departamento de cundinamarca.',
+			imageUrl: 'https://cdn.colombia.com/images/turismo/sitios-turisticos/bogota/centro-de-bogota.jpg',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3493,20 +3504,20 @@ export default {
 	if (this.region == 23) {
 		this.nombreRegion = "antioquia"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Antioquia!',
+			text: 'Si estás de paseo por Colombia, no puedes dejar de visitar los sitios turísticos de Medellín, cuna de grandes artistas como Fernando Botero, museos y espacios culturales para disfrutar del arte. Además, por estar anclada en el Valle de Aburrá, es una zona rica en bosques, lagunas y parques. No tendrás que preocuparte de qué hacer en Medellín, pues su oferta turística es muy amplia.',
+			imageUrl: 'data:image/jpeg;base64,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',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
 			})
 	}
 	if (this.region == 24) {
-		this.nombreRegion = "caldas"
+		this.nombreRegion = "valle-del-cauca"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Valle del cauca!',
+			text: 'Ubicado entre dos cordilleras (en el seno de lo que fue un antiguo lago prehistórico), este destino tropical tiene gran variedad de pisos climáticos, una temperatura muy agradable a lo largo de todo el año y dos épocas secas y 2 lluviosas..',
+			imageUrl: 'https://www.ciudadregion.com/files/2019/07/valle-del-cauca.jpg',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3515,20 +3526,20 @@ export default {
 	if (this.region == 25) {
 		this.nombreRegion = "risaralda"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Risaralda!',
+			text: 'La hospitalidad se siente desde las montañas an­dinas llenas de bosques, café y plátano, hasta el valle colmado de guadua y caña. La riqueza de pi­sos térmicos, paisajes y culturas identifican a este joven departamento como el fruto de una mezcla entre lo ancestral y lo moderno.',
+			imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQO5tHtOOnv36YKx87teIIVPA3ZXyorJOJE-w&usqp=CAU',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
 			})
 	}
 	if (this.region == 26) {
-		this.nombreRegion = "valle-sdsfasdewq"
+		this.nombreRegion = "huila"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Huila!',
+			text: 'El Desierto de la Tatacoa es un destino imperdible en el departamento del Huila en Colombia, es un lugar mágico que debes conocer para reconectarte con la naturaleza.',
+			imageUrl: 'https://cloudfront-us-east-1.images.arcpublishing.com/semana/735ZLE4ZPBAVZG4MT5SE3F7UMU.jpg',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3537,9 +3548,9 @@ export default {
 	if (this.region == 27) {
 		this.nombreRegion = "tolima"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Tolima!',
+			text: 'Con el turismo como industria verde, el departamento del Tolima desarrollo centros turísticos de importancia en los municipios denominados de “Tierra Caliente”, que cuentan con parques acuáticos, ráfting en el río Sumapaz de Melgar, Carmen de Apicalá, Coello, Flandes y Suárez. Al norte del departamento con Mariquita, Honda, Ambalema y Falan con el turismo histórico colonial en combinación con parques acuáticos.',
+			imageUrl: 'https://www.elolfato.com/assets/PALOMAR-VALLE-1.jpg',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3557,11 +3568,11 @@ export default {
 			})
 	}
 	if (this.region == 29) {
-		this.nombreRegion = "guajira"
+		this.nombreRegion = "la guajira"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Guajira!',
+			text: 'En la Guajira podrás encontrar una gran variedad de animales como flamencos y aves con hermosos plumajes en el Santuario de Fauna y Flora y en el Parque Nacional Natural Serranía de Macuira encuentra micos, tigrillos, venados, entre otros.',
+			imageUrl: 'https://encolombia.com/wp-content/uploads/2012/12/laguajira.jpg',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3570,9 +3581,9 @@ export default {
 	if (this.region == 30) {
 		this.nombreRegion = "putumayo"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Putumayo!',
+			text: 'Su principal riqueza es hidrografica, asi que sus atractivos turisticos estan relacionados con el agua, es asi como las lagunas del parque natural la playa son famosas por su belleza, lo mismo que la cascada del indio, que se encuentra escondida entre las montañas.',
+			imageUrl: 'https://www.eltiempo.com/contenido/multimedia/especiales/IMAGEN/IMAGEN-16423628-2.jpg',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3581,9 +3592,9 @@ export default {
 	if (this.region == 31) {
 		this.nombreRegion = "bolivar"
 			Swal.fire({
-			title: 'Sweet!',
-			text: 'Modal with a custom image.',
-			imageUrl: 'https://unsplash.it/400/200',
+			title: 'Bolivar!',
+			text: 'Cartagena es una ciudad que está ubicada a orillas del Mar Caribe, en la zona noroccidental del continente suramericano. En Colombia, se encuentra al norte del país, y es la capital de la región de Bolívar. ‘La Ciudad Heroica’ contempla a su alrededor varios archipiélagos e islas que son paraísos para un verdadero descanso. Aparte de limitar con San Andrés y Providencia, entre las islas más reconocidas se encuentran las Islas del Rosario, la Isla de Tierra Bomba e Isla Múcura, entre otras. .',
+			imageUrl: 'https://www.laregion.es/media/laregion/images/2017/08/03/2017080312522634535.jpg',
 			imageWidth: 400,
 			imageHeight: 200,
 			imageAlt: 'Custom image',
@@ -3591,7 +3602,14 @@ export default {
 	}
 	if (this.region == 32) {
 		this.nombreRegion = "quindio"
-		
+			Swal.fire({
+			title: 'Quindío!',
+			text: 'Salento, el pueblo más antiguo del Quindío, es el sitio que más atrae turistas en el Eje Cafetero. Ubicado en la cordillera central, este colorido pueblo co una población de 8100 habitantes, es la puerta de entrada al Valle del Cocora, emblemático territorio donde se encuentra el Arbol Nacional de Colombia: La Palma de Cera del Quindio.',
+			imageUrl: 'https://edificioquimbaya.com/wp-content/uploads/2018/05/Dise%C3%B1o-sin-t%C3%ADtulo-2.png',
+			imageWidth: 400,
+			imageHeight: 200,
+			imageAlt: 'Custom image',
+			})
 	}
     }
   },
